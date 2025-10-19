@@ -110,8 +110,7 @@
 </div>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagi2001&theme=tokyo-night&hide_border=true" alt="bhagya activity graph" />
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -131,3 +130,10 @@
 <a href="https://instagram.com/bhagya_welivita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="45" width="45" /></a>
  
 </p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h2>Thank You! 🤵 </h2>
+  
+Credit: [Bhagya Welivita](https://github.com/Bhagi2001)
+Last Edited on: 19/10/2025
