@@ -53,7 +53,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind" />
   </a>
 </p>
-<br>
+
+---
 
 <h3 align="center">⚙ Backend</h3>
 <p align="center">
@@ -61,7 +62,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,mongodb,nginx,c" />
   </a>
 </p>
-<br>
+
+---
 
 <h3 align="center">🎯 UI/UX Designer</h3>
 <p align="center">
@@ -69,7 +71,8 @@
     <img src="https://skillicons.dev/icons?i=figma,materialui" />
   </a>
 </p>
-<br>
+
+---
 
 <h3 align="center">🧰 Other Tools</h3>
 <p align="center">
