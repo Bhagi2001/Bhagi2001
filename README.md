@@ -125,8 +125,8 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://linkedin.com/in/bhagya-welivita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="45" width="45" /></a>
-<a href="https://fb.com/bhagya.welivita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/bhagya-welivita-550966302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="45" width="45" /></a>
+<a href="https://www.facebook.com/share/177LbDVT6d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="45" width="45" /></a>
 <a href="https://instagram.com/bhagya_welivita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="45" width="45" /></a>
  
 </p>
