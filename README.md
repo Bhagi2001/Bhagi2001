@@ -117,6 +117,15 @@
 
 <div align="center">
 
+## 🏆 Developer Milestones
+ <br/> <br/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=bhagi2001&theme=gruvbox&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies"
+  />
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
