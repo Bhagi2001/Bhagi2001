@@ -98,7 +98,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagi2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=#000000&text_color=C9D1D9" alt="Top Languages" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagi2001&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="42%" />
 
 </div>
 
@@ -119,10 +119,7 @@
 
 ## 🏆 Developer Milestones
  <br/> <br/>
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=bhagi2001&theme=gruvbox&no-frame=true&no-bg=true" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhagi2001&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
